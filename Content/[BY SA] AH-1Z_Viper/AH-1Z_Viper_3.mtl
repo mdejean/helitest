@@ -1,0 +1,164 @@
+# Blender MTL File: 'AH-1Z_Viper_3.blend'
+# Material Count: 16
+
+newmtl body1
+Ns 624.999985
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.488000 0.520000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\metal\\MetalAircraft0050_14_M.jpg
+
+newmtl body1_MetalBase0080_M.jpg
+Ns 624.999985
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.488000 0.520000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\metal\MetalAircraft0050_14_M.jpg
+map_Bump C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\metal\\MetalAircraft0050_14_M.jpg
+
+newmtl body1_ah-1z_tex1-01.png
+Ns 624.999985
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.488000 0.520000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\@Rotoscope\AH1Z Viper\tex\ah-1z_tex1-01.png
+map_Bump C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\metal\\MetalAircraft0050_14_M.jpg
+
+newmtl body2_cockpit
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.205469 0.205469 0.205469
+Ks 0.700000 0.700000 0.700000
+Ni 1.050000
+d 0.100000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\metal\MetalAircraft0050_14_M.jpg
+
+newmtl body2_cockpit_NONE
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.205469 0.205469 0.205469
+Ks 0.700000 0.700000 0.700000
+Ni 1.050000
+d 0.100000
+illum 2
+
+newmtl body_3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\@Rotoscope\AH1Z Viper\tex\ah-1z_bumptex-01.png
+map_Bump C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\@Rotoscope\\AH1Z Viper\\tex\\ah-1z_bumptex-01.png
+map_d C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\@Rotoscope\\AH1Z Viper\\tex\\ah-1z_bumptex-01.png
+
+newmtl body_4
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.620856 0.631277 0.672965
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\@Rotoscope\AH1Z Viper\tex\ah-1z_bumptex2_-01.png
+map_Bump C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\@Rotoscope\\AH1Z Viper\\tex\\ah-1z_bumptex2-01.png
+
+newmtl body_tex
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\@Rotoscope\AH1Z Viper\tex\ah-1z_tex1-01.png
+
+newmtl rotor1
+Ns 56.862745
+Ka 0.000000 0.000000 0.000000
+Kd 0.026220 0.026220 0.026220
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl rotor1_ah-1z_tex1-01.png
+Ns 56.862745
+Ka 0.000000 0.000000 0.000000
+Kd 0.026220 0.026220 0.026220
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\@Rotoscope\AH1Z Viper\tex\ah-1z_tex1-01.png
+
+newmtl rotor2
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.420000 0.427000 0.455000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl weapon1
+Ns 21.568627
+Ka 0.000000 0.000000 0.000000
+Kd 0.036375 0.041775 0.021671
+Ks 0.240000 0.240000 0.240000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\@Rotoscope\AH1Z Viper\tex\ah-1z_tex2-01.png
+map_Bump C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\metal\\MetalAircraft0050_14_M.jpg
+
+newmtl weapon1_NONE
+Ns 21.568627
+Ka 0.000000 0.000000 0.000000
+Kd 0.036375 0.041775 0.021671
+Ks 0.240000 0.240000 0.240000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\metal\\MetalAircraft0050_14_M.jpg
+map_Kd C:\\Users\\User\\Documents\\Unreal Projects\\[[Videos,Music,Pictures]]\\PICTURE\\Textures\\metal\\MetalAircraft0050_14_M.jpg
+
+newmtl weapon2
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.107021 0.107021 0.107021
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\User\Documents\Unreal Projects\[[Videos,Music,Pictures]]\PICTURE\Textures\@Rotoscope\AH1Z Viper\tex\ah-1z_tex2-01.png
+
+newmtl weapon2_NONE
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.107021 0.107021 0.107021
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl weapon3
+Ns 56.862745
+Ka 0.000000 0.000000 0.000000
+Kd 0.222983 0.222983 0.222983
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
